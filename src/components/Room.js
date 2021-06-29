@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import defaultImg from "../images/room-1.jpeg";
 import PropTypes from 'prop-types';
+// import RoomsContainers from "./RoomsContainers";
 
 function Room({ room }) {
   // console.log(room);
